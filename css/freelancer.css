@@ -7,7 +7,6 @@ body {
   font-family: 'Lato', 'Helvetica Neue', Helvetica, Arial, sans-serif;
   overflow-x: hidden;
 }
-
 p {
   font-size: 20px;
 }
@@ -39,7 +38,6 @@ hr.star-primary {
   text-align: center;
   max-width: 250px;
   margin: 25px auto 30px;
-  color: #BB1CED;
 }
 hr.star-light:after,
 hr.star-primary:after {
@@ -70,17 +68,16 @@ hr.star-primary:after {
 }
 header {
   text-align: center;
-  background: #BB1CED;
+  background: #18BC9C;
   color: white;
 }
 header .container {
   padding-top: 100px;
   padding-bottom: 50px;
-}    
+}
 header img {
   display: block;
-  margin: 0 auto 20px;*1/
-  
+  margin: 0 auto 20px;
 }
 header .intro-text .name {
   display: block;
